@@ -1,0 +1,34 @@
+/* pages/start/start.wxss */
+image{
+  width: 100%;
+  height: 100vh;
+  vertical-align: middle;
+}
+button{
+  position: fixed;
+  bottom: 100rpx;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 280rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  border: 2rpx solid #cfd0d1;
+  border-radius: 10rpx;
+  font-size: 28rpx;
+  letter-spacing: 4rpx;
+  color: #444;
+}
+.start-image{
+  border-radius: 10%;
+  width:680rpx;
+  height: 900rpx;
+  text-align: center;
+  margin-left: 32rpx;
+  margin-top: 200rpx;
+  opacity: 0.8;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+page {
+  background:rgb(184,196,214);
+} 

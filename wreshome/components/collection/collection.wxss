@@ -1,0 +1,8 @@
+.collection {
+width:100rpx;
+height:100rpx;
+}
+.collection image {
+width:100%;
+height:100%;
+}

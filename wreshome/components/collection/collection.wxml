@@ -1,0 +1,4 @@
+<view class='collection'>
+<button bindtap="_onCollection">button</button>
+   <image src='{{collected?"images/关注.png":"images/关注-n.png"}}' ></image>
+</view>
